@@ -1,10 +1,8 @@
 # BSEM1203_GROUP_SOFTWARE.ENG........
 FINAL PROJECT
-
-
 # Document Archive Asset Package
 
-This repository contains the extracted and decompressed source components of an Office Open XML Document (`.docx`). The file structure has been unpacked into its native XML components, styles, themes, and embedded media assets for version control, development tracking, or programmatic document generation.
+This repository contains the extracted and decompressed source components of an Office Open XML Document. The file structure has been unpacked into its native XML components, styles, themes, and embedded media assets for version control, development tracking, or programmatic document generation.
 
 ## 📂 Project Structure
 
