@@ -1,4 +1,4 @@
-# BSEM1203_GROUP_SOFTWARE.ENG........
+# BSEM1203_GROUP_SOFTWARE.ENG..
 FINAL PROJECT
 # Document Archive Asset Package
 
@@ -39,3 +39,4 @@ The project is organized according to the Open Packaging Conventions (OPC) layou
         ├── image15.png
         ├── image16.jpeg
         └── image17.jpeg
+end
